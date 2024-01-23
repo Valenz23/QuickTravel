@@ -2,7 +2,8 @@
 
 <img src="img/quicktravel-logo.png" width="250">
 
- Repositorio de la asignatura DES de Máster Universitario UGR
+ Repositorio de la asignatura DES-
+ Máster Universitario, UGR.
 
 
 ## Índice de contenidos
