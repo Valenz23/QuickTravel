@@ -1,4 +1,5 @@
 # QuickTravel
+![logo](img/quicktravel-logo.png)
  Repositorio de la asignatura DES de Máster Universitario UGR
 
 
